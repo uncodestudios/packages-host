@@ -1,0 +1,49 @@
+{
+  "_id": "com.unity.probuilder",
+  "name": "com.unity.probuilder",
+  "description": "Build, edit, and texture custom geometry in Unity. Use ProBuilder for in-scene level design, prototyping, collision meshes, all with on-the-fly play-testing.\n\nAdvanced features include UV editing, vertex colors, parametric shapes, and texture blending. With ProBuilder\u0027s model export feature it\u0027s easy to tweak your levels in any external 3D modelling suite.",
+  "provider": "upm",
+  "versions": {
+    "6.0.5": {
+      "name": "com.unity.probuilder",
+      "version": "6.0.5",
+      "displayName": "ProBuilder",
+      "description": "Build, edit, and texture custom geometry in Unity. Use ProBuilder for in-scene level design, prototyping, collision meshes, all with on-the-fly play-testing.\n\nAdvanced features include UV editing, vertex colors, parametric shapes, and texture blending. With ProBuilder\u0027s model export feature it\u0027s easy to tweak your levels in any external 3D modelling suite.",
+      "type": "asset",
+      "unity": "6000.0",
+      "keywords": [
+        "3d",
+        "model",
+        "mesh",
+        "modeling",
+        "geometry",
+        "shape",
+        "cube",
+        "blender",
+        "max",
+        "maya",
+        "fbx",
+        "obj",
+        "level",
+        "design",
+        "block",
+        "greybox",
+        "graybox",
+        "whitebox",
+        "prototype",
+        "probuilder"
+      ],
+      "dependencies": {
+        "com.unity.shadergraph": "17.0.3",
+        "com.unity.settings-manager": "1.0.3",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.imgui": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.probuilder@6.0.5/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.probuilder.tgz"
+      }
+    }
+  }
+}

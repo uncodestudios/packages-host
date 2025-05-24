@@ -1,0 +1,26 @@
+{
+  "_id": "com.unity.rendering.denoising",
+  "name": "com.unity.rendering.denoising",
+  "description": "Unity Denoising exposes a common high level denoising API for a number of different high quality denoising backends that can be used in the HDRP path tracer, in user scripts or the Unity Progressive Lightmapper",
+  "provider": "upm",
+  "versions": {
+    "1.0.5": {
+      "name": "com.unity.rendering.denoising",
+      "version": "1.0.5",
+      "displayName": "Unity Denoising",
+      "description": "Unity Denoising exposes a common high level denoising API for a number of different high quality denoising backends that can be used in the HDRP path tracer, in user scripts or the Unity Progressive Lightmapper",
+      "type": "asset",
+      "unity": "2022.3",
+      "keywords": [
+        "graphics",
+        "denoising"
+      ],
+      "dependencies": {},
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.rendering.denoising@1.0.5/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.rendering.denoising.tgz"
+      }
+    }
+  }
+}

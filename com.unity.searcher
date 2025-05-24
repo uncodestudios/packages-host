@@ -1,0 +1,26 @@
+{
+  "_id": "com.unity.searcher",
+  "name": "com.unity.searcher",
+  "description": "General search window for use in the Editor. First target use is for GraphView node search.",
+  "provider": "upm",
+  "versions": {
+    "4.9.3": {
+      "name": "com.unity.searcher",
+      "version": "4.9.3",
+      "displayName": "Searcher",
+      "description": "General search window for use in the Editor. First target use is for GraphView node search.",
+      "type": "asset",
+      "unity": "2019.1",
+      "keywords": [
+        "search",
+        "searcher"
+      ],
+      "dependencies": {},
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.searcher@4.9.3/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.searcher.tgz"
+      }
+    }
+  }
+}

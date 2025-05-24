@@ -1,0 +1,23 @@
+{
+  "_id": "com.unity.performance.profile-analyzer",
+  "name": "com.unity.performance.profile-analyzer",
+  "description": "The Profile Analyzer tool supports the standard Unity Profiler. You can use it to analyze multiple frames and multiple data sets of the CPU data in the Profiler.\n\nMain features: \n\u25AA Multi-frame analysis of a single set of Profiler CPU data \n\u25AA Comparison of two multi-frame profile scans \n\n",
+  "provider": "upm",
+  "versions": {
+    "1.2.3": {
+      "name": "com.unity.performance.profile-analyzer",
+      "version": "1.2.3",
+      "displayName": "Profile Analyzer",
+      "description": "The Profile Analyzer tool supports the standard Unity Profiler. You can use it to analyze multiple frames and multiple data sets of the CPU data in the Profiler.\n\nMain features: \n\u25AA Multi-frame analysis of a single set of Profiler CPU data \n\u25AA Comparison of two multi-frame profile scans \n\n",
+      "type": "asset",
+      "unity": "2020.3",
+      "keywords": [],
+      "dependencies": {},
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.performance.profile-analyzer@1.2.3/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.performance.profile-analyzer.tgz"
+      }
+    }
+  }
+}

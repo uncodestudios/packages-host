@@ -1,0 +1,33 @@
+{
+  "_id": "com.unity.scriptablebuildpipeline",
+  "name": "com.unity.scriptablebuildpipeline",
+  "description": "The Scriptable Build Pipeline moves the asset bundle build pipeline to C#.  Use the pre-defined build flows, or create your own using the divided up APIs.  This system improves build time, fixes incremental build, and provides greater flexibility.",
+  "provider": "upm",
+  "versions": {
+    "2.3.8": {
+      "name": "com.unity.scriptablebuildpipeline",
+      "version": "2.3.8",
+      "displayName": "Scriptable Build Pipeline",
+      "description": "The Scriptable Build Pipeline moves the asset bundle build pipeline to C#.  Use the pre-defined build flows, or create your own using the divided up APIs.  This system improves build time, fixes incremental build, and provides greater flexibility.",
+      "type": "asset",
+      "unity": "2023.1",
+      "keywords": [
+        "build",
+        "bundle",
+        "bundles",
+        "assetbundles",
+        "cache",
+        "server"
+      ],
+      "dependencies": {
+        "com.unity.test-framework": "1.4.5",
+        "com.unity.modules.assetbundle": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.scriptablebuildpipeline@2.3.8/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.scriptablebuildpipeline.tgz"
+      }
+    }
+  }
+}

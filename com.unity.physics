@@ -1,0 +1,34 @@
+{
+  "_id": "com.unity.physics",
+  "name": "com.unity.physics",
+  "description": "Unity\u0027s C# stateless physics library.\n\nBuilt on top of the Unity C# ECS framework, Unity Physics is network-ready, completely customizable, and built for performance out of the box. Whether you\u0027re building the next mobile hit or a new networked multiplayer console experience, Unity Physics leverages the Burst compiler and Job system to scale across a range of hardware.",
+  "provider": "upm",
+  "versions": {
+    "1.3.14": {
+      "name": "com.unity.physics",
+      "version": "1.3.14",
+      "displayName": "Unity Physics",
+      "description": "Unity\u0027s C# stateless physics library.\n\nBuilt on top of the Unity C# ECS framework, Unity Physics is network-ready, completely customizable, and built for performance out of the box. Whether you\u0027re building the next mobile hit or a new networked multiplayer console experience, Unity Physics leverages the Burst compiler and Job system to scale across a range of hardware.",
+      "type": "asset",
+      "unity": "2022.3",
+      "keywords": [
+        "unity",
+        "physics"
+      ],
+      "dependencies": {
+        "com.unity.burst": "1.8.19",
+        "com.unity.collections": "2.5.7",
+        "com.unity.entities": "1.3.14",
+        "com.unity.mathematics": "1.3.2",
+        "com.unity.test-framework": "1.4.6",
+        "com.unity.modules.imgui": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.physics@1.3.14/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.physics.tgz"
+      }
+    }
+  }
+}

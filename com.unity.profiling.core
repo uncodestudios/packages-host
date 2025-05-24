@@ -1,0 +1,27 @@
+{
+  "_id": "com.unity.profiling.core",
+  "name": "com.unity.profiling.core",
+  "description": "The Unity Profiling Core package provides an API for code instrumentation markup, and for profiling statistic collection.",
+  "provider": "upm",
+  "versions": {
+    "1.0.2": {
+      "name": "com.unity.profiling.core",
+      "version": "1.0.2",
+      "displayName": "Unity Profiling Core API",
+      "description": "The Unity Profiling Core package provides an API for code instrumentation markup, and for profiling statistic collection.",
+      "type": "asset",
+      "unity": "2020.1",
+      "keywords": [
+        "profiler",
+        "profiling",
+        "api"
+      ],
+      "dependencies": {},
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.profiling.core@1.0.2/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.profiling.core.tgz"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "com.unity.services.cloud-diagnostics",
+  "name": "com.unity.services.cloud-diagnostics",
+  "description": "This package is a suite of cloud enabled tools that help you collect and identify issues that users encounter with your apps.",
+  "provider": "upm",
+  "versions": {
+    "1.0.10": {
+      "name": "com.unity.services.cloud-diagnostics",
+      "version": "1.0.10",
+      "displayName": "Cloud Diagnostics",
+      "description": "This package is a suite of cloud enabled tools that help you collect and identify issues that users encounter with your apps.",
+      "type": "library",
+      "unity": "2022.1",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.services.core": "1.12.5"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.services.cloud-diagnostics@1.0.10/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.services.cloud-diagnostics.tgz"
+      }
+    }
+  }
+}

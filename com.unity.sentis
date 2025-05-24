@@ -1,0 +1,27 @@
+{
+  "_id": "com.unity.sentis",
+  "name": "com.unity.sentis",
+  "description": "Sentis is a neural network inference library. It enables you to import trained neural network models, connect the network inputs and outputs to your game code, and then run them locally in your end-user app. Use cases include capabilities like natural language processing, object recognition, automated game opponents, sensor data classification, and many more.\n\nSentis automatically optimizes your network for real-time use to speed up inference. It also allows you to tune your implementation further with tools like frame slicing, quantization, and custom backend (i.e. compute type) dispatching.\n\nVisit https://unity.com/sentis for more resources.",
+  "provider": "upm",
+  "versions": {
+    "2.1.3": {
+      "name": "com.unity.sentis",
+      "version": "2.1.3",
+      "displayName": "Sentis",
+      "description": "Sentis is a neural network inference library. It enables you to import trained neural network models, connect the network inputs and outputs to your game code, and then run them locally in your end-user app. Use cases include capabilities like natural language processing, object recognition, automated game opponents, sensor data classification, and many more.\n\nSentis automatically optimizes your network for real-time use to speed up inference. It also allows you to tune your implementation further with tools like frame slicing, quantization, and custom backend (i.e. compute type) dispatching.\n\nVisit https://unity.com/sentis for more resources.",
+      "type": "asset",
+      "unity": "2022.3",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.burst": "1.8.17",
+        "com.unity.collections": "2.4.3",
+        "com.unity.modules.imageconversion": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.sentis@2.1.3/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.sentis.tgz"
+      }
+    }
+  }
+}

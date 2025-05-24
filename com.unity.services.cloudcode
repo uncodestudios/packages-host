@@ -1,0 +1,29 @@
+{
+  "_id": "com.unity.services.cloudcode",
+  "name": "com.unity.services.cloudcode",
+  "description": "Run your game logic in the cloud as serverless functions and interact with other backend services.\n\nThis package allows you to call out to Cloud Code from within your project as a secure player.\n\nCloud Code can be used to: \n-Change game logic for all players without re-distributing your game \n-Grant timed rewards \n-Create randomized values",
+  "provider": "upm",
+  "versions": {
+    "2.9.0": {
+      "name": "com.unity.services.cloudcode",
+      "version": "2.9.0",
+      "displayName": "Cloud Code",
+      "description": "Run your game logic in the cloud as serverless functions and interact with other backend services.\n\nThis package allows you to call out to Cloud Code from within your project as a secure player.\n\nCloud Code can be used to: \n-Change game logic for all players without re-distributing your game \n-Grant timed rewards \n-Create randomized values",
+      "type": "asset",
+      "unity": "2021.3",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.services.authentication": "3.3.3",
+        "com.unity.services.core": "1.13.0",
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.nuget.newtonsoft-json": "3.0.2",
+        "com.unity.services.wire": "1.2.3"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.services.cloudcode@2.9.0/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.services.cloudcode.tgz"
+      }
+    }
+  }
+}

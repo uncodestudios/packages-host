@@ -1,0 +1,31 @@
+{
+  "_id": "com.unity.polybrush",
+  "name": "com.unity.polybrush",
+  "description": "Mesh painting, sculpting, and geo-scattering tool for Unity.",
+  "provider": "upm",
+  "versions": {
+    "1.1.8": {
+      "name": "com.unity.polybrush",
+      "version": "1.1.8",
+      "displayName": "Polybrush",
+      "description": "Mesh painting, sculpting, and geo-scattering tool for Unity.",
+      "type": "asset",
+      "unity": "2018.4",
+      "keywords": [
+        "modeling",
+        "sculpting",
+        "push",
+        "clay",
+        "terrain"
+      ],
+      "dependencies": {
+        "com.unity.settings-manager": "2.0.1"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.polybrush@1.1.8/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.polybrush.tgz"
+      }
+    }
+  }
+}

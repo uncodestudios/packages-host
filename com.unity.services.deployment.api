@@ -1,0 +1,23 @@
+{
+  "_id": "com.unity.services.deployment.api",
+  "name": "com.unity.services.deployment.api",
+  "description": "This package contains the API designed to allow for implementing Deployment functionality.",
+  "provider": "upm",
+  "versions": {
+    "1.1.2": {
+      "name": "com.unity.services.deployment.api",
+      "version": "1.1.2",
+      "displayName": "Deployment API",
+      "description": "This package contains the API designed to allow for implementing Deployment functionality.",
+      "type": "asset",
+      "unity": "2021.3",
+      "keywords": [],
+      "dependencies": {},
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.services.deployment.api@1.1.2/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.services.deployment.api.tgz"
+      }
+    }
+  }
+}

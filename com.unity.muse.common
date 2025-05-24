@@ -1,0 +1,27 @@
+{
+  "_id": "com.unity.muse.common",
+  "name": "com.unity.muse.common",
+  "description": "Muse Common Library is a package that provides common tools for other Muse AI packages.",
+  "provider": "upm",
+  "versions": {
+    "2.0.3": {
+      "name": "com.unity.muse.common",
+      "version": "2.0.3",
+      "displayName": "Muse Common Library",
+      "description": "Muse Common Library is a package that provides common tools for other Muse AI packages.",
+      "type": "asset",
+      "unity": "2022.3",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.modules.imageconversion": "1.0.0",
+        "com.unity.modules.unitywebrequesttexture": "1.0.0",
+        "com.unity.modules.uielements": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.muse.common@2.0.3/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.muse.common.tgz"
+      }
+    }
+  }
+}

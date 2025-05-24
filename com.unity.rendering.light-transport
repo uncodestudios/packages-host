@@ -1,0 +1,31 @@
+{
+  "_id": "com.unity.rendering.light-transport",
+  "name": "com.unity.rendering.light-transport",
+  "description": "Unity Light Transport Library exposes reusable code for writing light transport algorithms such as raytracing or pathtracing",
+  "provider": "upm",
+  "versions": {
+    "1.0.1": {
+      "name": "com.unity.rendering.light-transport",
+      "version": "1.0.1",
+      "displayName": "Unity Light Transport Library",
+      "description": "Unity Light Transport Library exposes reusable code for writing light transport algorithms such as raytracing or pathtracing",
+      "type": "asset",
+      "unity": "2023.3",
+      "keywords": [
+        "raytracing",
+        "pathtracing",
+        "monte-carlo"
+      ],
+      "dependencies": {
+        "com.unity.collections": "2.2.0",
+        "com.unity.mathematics": "1.2.4",
+        "com.unity.modules.terrain": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.rendering.light-transport@1.0.1/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.rendering.light-transport.tgz"
+      }
+    }
+  }
+}

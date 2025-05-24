@@ -1,0 +1,25 @@
+{
+  "_id": "com.unity.multiplayer.widgets",
+  "name": "com.unity.multiplayer.widgets",
+  "description": "The Multiplayer Widgets package provides a set of widgets that help implementing Unity\u0027s multiplayer services in a rapid prototyping fashion.",
+  "provider": "upm",
+  "versions": {
+    "1.0.1": {
+      "name": "com.unity.multiplayer.widgets",
+      "version": "1.0.1",
+      "displayName": "Multiplayer Widgets",
+      "description": "The Multiplayer Widgets package provides a set of widgets that help implementing Unity\u0027s multiplayer services in a rapid prototyping fashion.",
+      "type": "asset",
+      "unity": "6000.0",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.services.multiplayer": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.multiplayer.widgets@1.0.1/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.multiplayer.widgets.tgz"
+      }
+    }
+  }
+}

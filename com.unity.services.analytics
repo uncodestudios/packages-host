@@ -1,0 +1,27 @@
+{
+  "_id": "com.unity.services.analytics",
+  "name": "com.unity.services.analytics",
+  "description": "The Unity Analytics package automatically collects core events and user properties when someone uses your game or application, and enables you to track specific in-game actions your user performs by defining custom events. The data collected from this package is surfaced in the Unity dashboard where you can use it to gather user insights, segment your player base and make informed decisions around the optimization of your game.",
+  "provider": "upm",
+  "versions": {
+    "6.0.3": {
+      "name": "com.unity.services.analytics",
+      "version": "6.0.3",
+      "displayName": "Analytics",
+      "description": "The Unity Analytics package automatically collects core events and user properties when someone uses your game or application, and enables you to track specific in-game actions your user performs by defining custom events. The data collected from this package is surfaced in the Unity dashboard where you can use it to gather user insights, segment your player base and make informed decisions around the optimization of your game.",
+      "type": "asset",
+      "unity": "2021.3",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.services.core": "1.12.4"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.services.analytics@6.0.3/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.services.analytics.tgz"
+      }
+    }
+  }
+}

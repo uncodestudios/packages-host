@@ -1,0 +1,30 @@
+{
+  "_id": "com.unity.mobile.notifications",
+  "name": "com.unity.mobile.notifications",
+  "description": "Mobile Notifications package adds support for scheduling local repeatable or one-time notifications on iOS and Android.\n\nOn iOS receiving of push notifications is also supported.",
+  "provider": "upm",
+  "versions": {
+    "2.4.0": {
+      "name": "com.unity.mobile.notifications",
+      "version": "2.4.0",
+      "displayName": "Mobile Notifications",
+      "description": "Mobile Notifications package adds support for scheduling local repeatable or one-time notifications on iOS and Android.\n\nOn iOS receiving of push notifications is also supported.",
+      "type": "asset",
+      "unity": "2021.3",
+      "keywords": [
+        "Android",
+        "iOS",
+        "Notifications",
+        "Mobile"
+      ],
+      "dependencies": {
+        "com.unity.modules.androidjni": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.mobile.notifications@2.4.0/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.mobile.notifications.tgz"
+      }
+    }
+  }
+}

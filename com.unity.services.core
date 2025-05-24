@@ -1,0 +1,27 @@
+{
+  "_id": "com.unity.services.core",
+  "name": "com.unity.services.core",
+  "description": "This package defines common components used by multiple Game Service packages.\nThese are standardized and aim to unify the overall experience of working with Game Services SDK.",
+  "provider": "upm",
+  "versions": {
+    "1.14.0": {
+      "name": "com.unity.services.core",
+      "version": "1.14.0",
+      "displayName": "Services Core",
+      "description": "This package defines common components used by multiple Game Service packages.\nThese are standardized and aim to unify the overall experience of working with Game Services SDK.",
+      "type": "asset",
+      "unity": "2021.3",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.nuget.newtonsoft-json": "3.2.1",
+        "com.unity.modules.androidjni": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.services.core@1.14.0/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.services.core.tgz"
+      }
+    }
+  }
+}

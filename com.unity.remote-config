@@ -1,0 +1,59 @@
+{
+  "_id": "com.unity.remote-config",
+  "name": "com.unity.remote-config",
+  "description": "Remote Config is a cloud service that lets you tune and customize your app over the air without requiring an update to your game.  You can use rules to enable or disable features, change the difficulty of your game or run special events to target specific audiences.  Campaigns control when updates are applied and to whom, while Unity manages delivery of your game content with minimal performance impact. \n\nRemote Config can be configured via the editor or through our public API\u2019s.  Functionality includes: \n- Release new features without deploying code:\n   - Feature flagging\n   - Staged Rollouts\n   - Kill switch functionality\n   - Start \u0026 End Date\n   - Enable \u0026 disable rules\n- Personalized real-time segmentation with custom attributes\n   - Custom conditions for applying setting variants\n   - Device, user, game and other arbitrary attributes supporting\n- Reporting\n   - Tracing ID for decorating analytics events",
+  "provider": "upm",
+  "versions": {
+    "4.1.1": {
+      "name": "com.unity.remote-config",
+      "version": "4.1.1",
+      "displayName": "Remote Config",
+      "description": "Remote Config is a cloud service that lets you tune and customize your app over the air without requiring an update to your game.  You can use rules to enable or disable features, change the difficulty of your game or run special events to target specific audiences.  Campaigns control when updates are applied and to whom, while Unity manages delivery of your game content with minimal performance impact. \n\nRemote Config can be configured via the editor or through our public API\u2019s.  Functionality includes: \n- Release new features without deploying code:\n   - Feature flagging\n   - Staged Rollouts\n   - Kill switch functionality\n   - Start \u0026 End Date\n   - Enable \u0026 disable rules\n- Personalized real-time segmentation with custom attributes\n   - Custom conditions for applying setting variants\n   - Device, user, game and other arbitrary attributes supporting\n- Reporting\n   - Tracing ID for decorating analytics events",
+      "type": "asset",
+      "unity": "2021.3",
+      "keywords": [
+        "remote",
+        "config",
+        "configuration",
+        "settings",
+        "remote settings",
+        "remote config",
+        "firebase",
+        "staged rollouts",
+        "feature flagging",
+        "roll-out",
+        "adapt",
+        "tune",
+        "tailor",
+        "test",
+        "experiment",
+        "experimentation",
+        "app update",
+        "target",
+        "targeting",
+        "segment",
+        "segmentation",
+        "segmenting",
+        "override",
+        "rules",
+        "variants",
+        "variation",
+        "parameter",
+        "conditions",
+        "conditional",
+        "continuous delivery",
+        "deploy"
+      ],
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.0.2",
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.remote-config-runtime": "4.0.2"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.remote-config@4.1.1/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.remote-config.tgz"
+      }
+    }
+  }
+}

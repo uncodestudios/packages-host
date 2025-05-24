@@ -1,0 +1,26 @@
+{
+  "_id": "com.unity.muse.texture",
+  "name": "com.unity.muse.texture",
+  "description": "With Muse Texture, you can create and edit AI-generated textures from text prompts and pattern guides. These generations are powered by Unity\u2019s own proprietary and responsibly built model.",
+  "provider": "upm",
+  "versions": {
+    "1.1.1": {
+      "name": "com.unity.muse.texture",
+      "version": "1.1.1",
+      "displayName": "Muse Texture",
+      "description": "With Muse Texture, you can create and edit AI-generated textures from text prompts and pattern guides. These generations are powered by Unity\u2019s own proprietary and responsibly built model.",
+      "type": "asset",
+      "unity": "2022.3",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.muse.common": "2.0.3",
+        "com.unity.shadergraph": "14.0.7"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.muse.texture@1.1.1/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.muse.texture.tgz"
+      }
+    }
+  }
+}

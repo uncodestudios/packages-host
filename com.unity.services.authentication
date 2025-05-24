@@ -1,0 +1,28 @@
+{
+  "_id": "com.unity.services.authentication",
+  "name": "com.unity.services.authentication",
+  "description": "Client SDK offering player identity management for Unity Gaming Services.\n\nIdentity providers can be configured from the editor or the Unity Dashboard.\n\nPlayer management is available in the Unity Dashboard.",
+  "provider": "upm",
+  "versions": {
+    "3.4.1": {
+      "name": "com.unity.services.authentication",
+      "version": "3.4.1",
+      "displayName": "Authentication",
+      "description": "Client SDK offering player identity management for Unity Gaming Services.\n\nIdentity providers can be configured from the editor or the Unity Dashboard.\n\nPlayer management is available in the Unity Dashboard.",
+      "type": "asset",
+      "unity": "2021.3",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.1",
+        "com.unity.services.core": "1.14.0",
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.ugui": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.services.authentication@3.4.1/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.services.authentication.tgz"
+      }
+    }
+  }
+}

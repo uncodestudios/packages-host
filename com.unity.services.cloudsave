@@ -1,0 +1,26 @@
+{
+  "_id": "com.unity.services.cloudsave",
+  "name": "com.unity.services.cloudsave",
+  "description": "Build better player experiences with seamless game data stored securely in the cloud.\n\nUse Cloud Save to store your players\u2019 progress and preferences, by doing so you can share this data between all the players\u2019 devices and any game backend services.",
+  "provider": "upm",
+  "versions": {
+    "3.2.2": {
+      "name": "com.unity.services.cloudsave",
+      "version": "3.2.2",
+      "displayName": "Cloud Save",
+      "description": "Build better player experiences with seamless game data stored securely in the cloud.\n\nUse Cloud Save to store your players\u2019 progress and preferences, by doing so you can share this data between all the players\u2019 devices and any game backend services.",
+      "type": "asset",
+      "unity": "2021.3",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.services.authentication": "3.3.1",
+        "com.unity.services.core": "1.12.5"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.services.cloudsave@3.2.2/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.services.cloudsave.tgz"
+      }
+    }
+  }
+}

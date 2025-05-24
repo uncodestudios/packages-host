@@ -1,0 +1,26 @@
+{
+  "_id": "com.unity.services.economy",
+  "name": "com.unity.services.economy",
+  "description": "Economy is a cloud service that enables game developers to create their in-game economy and gives them seamless purchases, currency conversion, player inventory management, and more. By using Economy, you have the power to integrate a fully-featured marketplace into your game, and manage it through a streamlined dashboard. \n\nEconomy can be configured through the Unity Dashboard. This package allows you to interact with your Economy configuration, player\u2019s balances, inventories and purchases.",
+  "provider": "upm",
+  "versions": {
+    "3.5.1": {
+      "name": "com.unity.services.economy",
+      "version": "3.5.1",
+      "displayName": "Economy",
+      "description": "Economy is a cloud service that enables game developers to create their in-game economy and gives them seamless purchases, currency conversion, player inventory management, and more. By using Economy, you have the power to integrate a fully-featured marketplace into your game, and manage it through a streamlined dashboard. \n\nEconomy can be configured through the Unity Dashboard. This package allows you to interact with your Economy configuration, player\u2019s balances, inventories and purchases.",
+      "type": "asset",
+      "unity": "2021.3",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.services.authentication": "3.3.3",
+        "com.unity.services.core": "1.13.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.services.economy@3.5.1/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.services.economy.tgz"
+      }
+    }
+  }
+}

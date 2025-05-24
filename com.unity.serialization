@@ -1,0 +1,31 @@
+{
+  "_id": "com.unity.serialization",
+  "name": "com.unity.serialization",
+  "description": "Use Unity\u0027s Serialization to serialize and deserialize from/to JSON and Binary formats.",
+  "provider": "upm",
+  "versions": {
+    "3.1.2": {
+      "name": "com.unity.serialization",
+      "version": "3.1.2",
+      "displayName": "Serialization",
+      "description": "Use Unity\u0027s Serialization to serialize and deserialize from/to JSON and Binary formats.",
+      "type": "asset",
+      "unity": "2022.2",
+      "keywords": [
+        "serialization",
+        "json",
+        "binary",
+        "unity"
+      ],
+      "dependencies": {
+        "com.unity.collections": "2.4.2",
+        "com.unity.burst": "1.7.2"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.serialization@3.1.2/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.serialization.tgz"
+      }
+    }
+  }
+}

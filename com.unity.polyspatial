@@ -1,0 +1,34 @@
+{
+  "_id": "com.unity.polyspatial",
+  "name": "com.unity.polyspatial",
+  "description": "The Unity PolySpatial runtime includes platform-agnostic code required to build and deploy apps for supported platforms.\nUnity PolySpatial and visionOS support is only available to Unity Pro, Unity Enterprise, and Unity Industry users. Learn more about these plans at unity.com/pricing.",
+  "provider": "upm",
+  "versions": {
+    "2.2.4": {
+      "name": "com.unity.polyspatial",
+      "version": "2.2.4",
+      "displayName": "PolySpatial",
+      "description": "The Unity PolySpatial runtime includes platform-agnostic code required to build and deploy apps for supported platforms.\nUnity PolySpatial and visionOS support is only available to Unity Pro, Unity Enterprise, and Unity Industry users. Learn more about these plans at unity.com/pricing.",
+      "type": "asset",
+      "unity": "6000.0",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.1",
+        "com.unity.shadergraph": "17.0.3",
+        "com.unity.collections": "2.4.3",
+        "com.unity.textmeshpro": "3.0.7",
+        "com.unity.xr.core-utils": "2.3.0",
+        "com.unity.ext.flatsharp": "1.1.1",
+        "com.unity.modules.particlesystem": "1.0.0",
+        "com.unity.inputsystem": "1.10.0",
+        "com.unity.modules.video": "1.0.0",
+        "com.unity.ugui": "2.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.polyspatial@2.2.4/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.polyspatial.tgz"
+      }
+    }
+  }
+}

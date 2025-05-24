@@ -1,0 +1,26 @@
+{
+  "_id": "com.unity.services.deployment",
+  "name": "com.unity.services.deployment",
+  "description": "The Deployment package allows for a cohesive interface for the deployment of assets and configurations for UGS services.\n\nIt is not used on its own as UGS services will integrate with it.\nIt provides the base tooling, such as the Deployment Window, so that UGS services have shared functionality surrounding the deployment of the service\u0027s configuration files.",
+  "provider": "upm",
+  "versions": {
+    "1.4.1": {
+      "name": "com.unity.services.deployment",
+      "version": "1.4.1",
+      "displayName": "Deployment",
+      "description": "The Deployment package allows for a cohesive interface for the deployment of assets and configurations for UGS services.\n\nIt is not used on its own as UGS services will integrate with it.\nIt provides the base tooling, such as the Deployment Window, so that UGS services have shared functionality surrounding the deployment of the service\u0027s configuration files.",
+      "type": "asset",
+      "unity": "2021.3",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.services.deployment.api": "1.1.2",
+        "com.unity.services.core": "1.12.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.services.deployment@1.4.1/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.services.deployment.tgz"
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "_id": "com.unity.recorder",
+  "name": "com.unity.recorder",
+  "description": "The Recorder allows you to capture and save data from the Unity Editor during Play mode: animations, videos, images, audio, AOVs, and more.",
+  "provider": "upm",
+  "versions": {
+    "5.1.2": {
+      "name": "com.unity.recorder",
+      "version": "5.1.2",
+      "displayName": "Recorder",
+      "description": "The Recorder allows you to capture and save data from the Unity Editor during Play mode: animations, videos, images, audio, AOVs, and more.",
+      "type": "asset",
+      "unity": "2023.1",
+      "keywords": [
+        "unity",
+        "recorder",
+        "recording",
+        "capture",
+        "video",
+        "animation",
+        "clip",
+        "images",
+        "render",
+        "pass",
+        "layer"
+      ],
+      "dependencies": {
+        "com.unity.timeline": "1.8.7",
+        "com.unity.collections": "1.2.4",
+        "com.unity.bindings.openimageio": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.recorder@5.1.2/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.recorder.tgz"
+      }
+    }
+  }
+}

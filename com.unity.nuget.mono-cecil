@@ -1,0 +1,23 @@
+{
+  "_id": "com.unity.nuget.mono-cecil",
+  "name": "com.unity.nuget.mono-cecil",
+  "description": "The mono cecil library from https://www.nuget.org/packages/Mono.Cecil/\n\nThis package is intended for internal Unity use only. Most Unity users will be better suited using the existing community tooling.\nTo avoid assembly clashes, please use this package if you intend to use Mono.Cecil.",
+  "provider": "upm",
+  "versions": {
+    "1.11.5": {
+      "name": "com.unity.nuget.mono-cecil",
+      "version": "1.11.5",
+      "displayName": "Mono Cecil",
+      "description": "The mono cecil library from https://www.nuget.org/packages/Mono.Cecil/\n\nThis package is intended for internal Unity use only. Most Unity users will be better suited using the existing community tooling.\nTo avoid assembly clashes, please use this package if you intend to use Mono.Cecil.",
+      "type": "asset",
+      "unity": "2019.4",
+      "keywords": [],
+      "dependencies": {},
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.nuget.mono-cecil@1.11.5/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.nuget.mono-cecil.tgz"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "com.unity.mobile.android-logcat",
+  "name": "com.unity.mobile.android-logcat",
+  "description": "Android Logcat package provides support for:\n - Android log messages\n - Android application memory statistics\n - Input injection\n - Android Screen Capture\n - Android Screen Recorder\n - Stacktrace Utility\n\nClick the \u0027View documentation\u0027 link above for more information.\n\nThe window can be accessed in Unity Editor via \u0027Window \u003E Analysis \u003E Android Logcat\u0027, or simply by pressing \u0027Alt\u002B6\u0027 on Windows or \u0027Option\u002B6\u0027 on macOS. \n\nMake sure to have Android module loaded and switch to Android build target in \u0027Build Settings\u0027 window if the menu doesn\u0027t exist.",
+  "provider": "upm",
+  "versions": {
+    "1.4.5": {
+      "name": "com.unity.mobile.android-logcat",
+      "version": "1.4.5",
+      "displayName": "Android Logcat",
+      "description": "Android Logcat package provides support for:\n - Android log messages\n - Android application memory statistics\n - Input injection\n - Android Screen Capture\n - Android Screen Recorder\n - Stacktrace Utility\n\nClick the \u0027View documentation\u0027 link above for more information.\n\nThe window can be accessed in Unity Editor via \u0027Window \u003E Analysis \u003E Android Logcat\u0027, or simply by pressing \u0027Alt\u002B6\u0027 on Windows or \u0027Option\u002B6\u0027 on macOS. \n\nMake sure to have Android module loaded and switch to Android build target in \u0027Build Settings\u0027 window if the menu doesn\u0027t exist.",
+      "type": "asset",
+      "unity": "2021.3",
+      "keywords": [
+        "Mobile",
+        "Android",
+        "Logcat"
+      ],
+      "dependencies": {},
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.mobile.android-logcat@1.4.5/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.mobile.android-logcat.tgz"
+      }
+    }
+  }
+}

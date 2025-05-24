@@ -1,0 +1,33 @@
+{
+  "_id": "com.unity.purchasing",
+  "name": "com.unity.purchasing",
+  "description": "IMPORTANT UPGRADE NOTES:\n\nIf updating from Unity IAP (com.unity.purchasing \u002B the Asset Store plugin) versions 2.x to version 3.x, complete the following actions in order to resolve compilation errors:\n 1. Move IAPProductCatalog.json and BillingMode.json\n\tFROM: Assets/Plugins/UnityPurchasing/Resources/\n\tTO: Assets/Resources/.\n 2. Move AppleTangle.cs and GooglePlayTangle.cs\n\tFROM: Assets/Plugins/UnityPurchasing/generated\n\tTO: Assets/Scripts/UnityPurchasing/generated.\n 3. Remove all remaining Asset Store plugin folders and files in Assets/Plugins/UnityPurchasing from your project.\n\nPACKAGE DESCRIPTION:\n\nWith Unity IAP, setting up in-app purchases for your game across multiple app stores has never been easier.\n\nThis package provides:\n\n \u25AA One common API to access all stores for free so you can fully understand and optimize your in-game economy\n \u25AA Automatic coupling with Unity Analytics to enable monitoring and decision-making based on trends in your revenue and purchase data across multiple platforms\n \u25AA Support for iOS, Mac, tvOS, Google Play, Windows, and Amazon app stores(*).\n \u25AA Support to work with the Unity Distribution Portal to synchronize catalogs and transactions with other app stores\n \u25AA Client-side receipt validation for Apple App Store and Google Play\n\nAfter installing this package, open the Services Window to enable In-App Purchasing to use these features.",
+  "provider": "upm",
+  "versions": {
+    "4.12.2": {
+      "name": "com.unity.purchasing",
+      "version": "4.12.2",
+      "displayName": "In App Purchasing",
+      "description": "IMPORTANT UPGRADE NOTES:\n\nIf updating from Unity IAP (com.unity.purchasing \u002B the Asset Store plugin) versions 2.x to version 3.x, complete the following actions in order to resolve compilation errors:\n 1. Move IAPProductCatalog.json and BillingMode.json\n\tFROM: Assets/Plugins/UnityPurchasing/Resources/\n\tTO: Assets/Resources/.\n 2. Move AppleTangle.cs and GooglePlayTangle.cs\n\tFROM: Assets/Plugins/UnityPurchasing/generated\n\tTO: Assets/Scripts/UnityPurchasing/generated.\n 3. Remove all remaining Asset Store plugin folders and files in Assets/Plugins/UnityPurchasing from your project.\n\nPACKAGE DESCRIPTION:\n\nWith Unity IAP, setting up in-app purchases for your game across multiple app stores has never been easier.\n\nThis package provides:\n\n \u25AA One common API to access all stores for free so you can fully understand and optimize your in-game economy\n \u25AA Automatic coupling with Unity Analytics to enable monitoring and decision-making based on trends in your revenue and purchase data across multiple platforms\n \u25AA Support for iOS, Mac, tvOS, Google Play, Windows, and Amazon app stores(*).\n \u25AA Support to work with the Unity Distribution Portal to synchronize catalogs and transactions with other app stores\n \u25AA Client-side receipt validation for Apple App Store and Google Play\n\nAfter installing this package, open the Services Window to enable In-App Purchasing to use these features.",
+      "type": "asset",
+      "unity": "2020.3",
+      "keywords": [
+        "purchasing",
+        "iap",
+        "unity"
+      ],
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.androidjni": "1.0.0",
+        "com.unity.services.core": "1.12.5"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.purchasing@4.12.2/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.purchasing.tgz"
+      }
+    }
+  }
+}
