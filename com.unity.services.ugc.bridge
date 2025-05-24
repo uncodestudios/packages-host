@@ -1,0 +1,27 @@
+{
+  "_id": "com.unity.services.ugc.bridge",
+  "name": "com.unity.services.ugc.bridge",
+  "description": "The User-Generated Content (UGC) Bridge is a Unity package allowing users to upload UGC for a specific game from the Unity editor. It is a template Unity package provided to game studios developing UGC games, so they can modify it to suit their needs and designs, but functional by default without changing anything.\n\n The UGC Bridge aims to reduce the friction of the UGC integration in a game, leveraging the Unity editor itself as the base of the UGC editor, therefore also reducing the engineering cost of such integration.",
+  "provider": "upm",
+  "versions": {
+    "3.0.0": {
+      "name": "com.unity.services.ugc.bridge",
+      "version": "3.0.0",
+      "displayName": "User Generated Content Bridge",
+      "description": "The User-Generated Content (UGC) Bridge is a Unity package allowing users to upload UGC for a specific game from the Unity editor. It is a template Unity package provided to game studios developing UGC games, so they can modify it to suit their needs and designs, but functional by default without changing anything.\n\n The UGC Bridge aims to reduce the friction of the UGC integration in a game, leveraging the Unity editor itself as the base of the UGC editor, therefore also reducing the engineering cost of such integration.",
+      "type": "asset",
+      "unity": "2020.3",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.services.core": "1.8.1",
+        "com.unity.services.authentication": "3.0.0",
+        "com.unity.nuget.newtonsoft-json": "3.0.2"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.services.ugc.bridge@3.0.0/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.services.ugc.bridge.tgz"
+      }
+    }
+  }
+}

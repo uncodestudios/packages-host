@@ -1,0 +1,29 @@
+{
+  "_id": "com.unity.xr.interactionsubsystems",
+  "name": "com.unity.xr.interactionsubsystems",
+  "description": "Contains definitions for Interaction Subsystems. This package is a dependency of provider packages.",
+  "provider": "upm",
+  "versions": {
+    "2.0.0": {
+      "name": "com.unity.xr.interactionsubsystems",
+      "version": "2.0.0",
+      "displayName": "XR Interaction Subsystems",
+      "description": "Contains definitions for Interaction Subsystems. This package is a dependency of provider packages.",
+      "type": "asset",
+      "unity": "2022.2",
+      "keywords": [
+        "subsystem",
+        "XR",
+        "Interaction"
+      ],
+      "dependencies": {
+        "com.unity.modules.subsystems": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.xr.interactionsubsystems@2.0.0/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.xr.interactionsubsystems.tgz"
+      }
+    }
+  }
+}

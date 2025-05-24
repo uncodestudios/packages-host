@@ -1,0 +1,23 @@
+{
+  "_id": "com.unity.settings-manager",
+  "name": "com.unity.settings-manager",
+  "description": "A framework for making any serializable field a setting, complete with a pre-built settings interface.",
+  "provider": "upm",
+  "versions": {
+    "2.1.0": {
+      "name": "com.unity.settings-manager",
+      "version": "2.1.0",
+      "displayName": "Settings Manager",
+      "description": "A framework for making any serializable field a setting, complete with a pre-built settings interface.",
+      "type": "asset",
+      "unity": "2022.3",
+      "keywords": [],
+      "dependencies": {},
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.settings-manager@2.1.0/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.settings-manager.tgz"
+      }
+    }
+  }
+}

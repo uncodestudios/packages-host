@@ -1,0 +1,30 @@
+{
+  "_id": "com.unity.test-framework",
+  "name": "com.unity.test-framework",
+  "description": "Test framework for running Edit mode and Play mode tests in Unity.",
+  "provider": "upm",
+  "versions": {
+    "1.5.1": {
+      "name": "com.unity.test-framework",
+      "version": "1.5.1",
+      "displayName": "Test Framework",
+      "description": "Test framework for running Edit mode and Play mode tests in Unity.",
+      "type": "asset",
+      "unity": "2022.3",
+      "keywords": [
+        "Test",
+        "TestFramework"
+      ],
+      "dependencies": {
+        "com.unity.ext.nunit": "2.0.3",
+        "com.unity.modules.imgui": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.test-framework@1.5.1/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.test-framework.tgz"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "com.unity.toolchain.win-arm64-linux-x86_64",
+  "name": "com.unity.toolchain.win-arm64-linux-x86_64",
+  "description": "Cross-compilation toolchain to build player target Linux x86_64 on host Windows Arm64",
+  "provider": "upm",
+  "versions": {
+    "1.0.4": {
+      "name": "com.unity.toolchain.win-arm64-linux-x86_64",
+      "version": "1.0.4",
+      "displayName": "Toolchain WinArm64 Linux x64",
+      "description": "Cross-compilation toolchain to build player target Linux x86_64 on host Windows Arm64",
+      "type": "asset",
+      "unity": "2023.3",
+      "keywords": [
+        "toolchain",
+        "windows",
+        "linux",
+        "cross-compilation"
+      ],
+      "dependencies": {
+        "com.unity.sysroot": "2.0.10",
+        "com.unity.sysroot.linux-x86_64": "2.0.9"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.toolchain.win-arm64-linux-x86_64@1.0.4/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.toolchain.win-arm64-linux-x86_64.tgz"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "com.unity.services.user-reporting",
+  "name": "com.unity.services.user-reporting",
+  "description": "This package is a SDK toolset that helps you collect and identify issues that users or testers encounter with your apps.",
+  "provider": "upm",
+  "versions": {
+    "2.0.11": {
+      "name": "com.unity.services.user-reporting",
+      "version": "2.0.11",
+      "displayName": "User Reporting",
+      "description": "This package is a SDK toolset that helps you collect and identify issues that users or testers encounter with your apps.",
+      "type": "library",
+      "unity": "2022.1",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.modules.ui": "1.0.0",
+        "com.unity.modules.unitywebrequesttexture": "1.0.0",
+        "com.unity.modules.xr": "1.0.0",
+        "com.unity.nuget.newtonsoft-json": "3.0.2",
+        "com.unity.services.core": "1.12.5",
+        "com.unity.modules.screencapture": "1.0.0",
+        "com.unity.ugui": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.services.user-reporting@2.0.11/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.services.user-reporting.tgz"
+      }
+    }
+  }
+}

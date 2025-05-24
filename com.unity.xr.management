@@ -1,0 +1,37 @@
+{
+  "_id": "com.unity.xr.management",
+  "name": "com.unity.xr.management",
+  "description": "Package that provides simple management of XR plug-ins. Manages and offers help with loading, initialization, settings, and build support for XR plug-ins.",
+  "provider": "upm",
+  "versions": {
+    "4.5.1": {
+      "name": "com.unity.xr.management",
+      "version": "4.5.1",
+      "displayName": "XR Plugin Management",
+      "description": "Package that provides simple management of XR plug-ins. Manages and offers help with loading, initialization, settings, and build support for XR plug-ins.",
+      "type": "asset",
+      "unity": "2020.3",
+      "keywords": [
+        "xr",
+        "sdk",
+        "ar",
+        "vr",
+        "management",
+        "build",
+        "plugin"
+      ],
+      "dependencies": {
+        "com.unity.modules.subsystems": "1.0.0",
+        "com.unity.modules.vr": "1.0.0",
+        "com.unity.modules.xr": "1.0.0",
+        "com.unity.xr.core-utils": "2.2.1",
+        "com.unity.xr.legacyinputhelpers": "2.1.11"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.xr.management@4.5.1/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.xr.management.tgz"
+      }
+    }
+  }
+}

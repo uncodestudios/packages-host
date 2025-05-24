@@ -1,0 +1,26 @@
+{
+  "_id": "com.unity.services.leaderboards",
+  "name": "com.unity.services.leaderboards",
+  "description": "Add socio-competitive elements to your game by allowing users to compete on leaderboards. Use the Leaderboards service to store, sort, and rank player scores powered by Unity Gaming Services.",
+  "provider": "upm",
+  "versions": {
+    "2.2.1": {
+      "name": "com.unity.services.leaderboards",
+      "version": "2.2.1",
+      "displayName": "Leaderboards",
+      "description": "Add socio-competitive elements to your game by allowing users to compete on leaderboards. Use the Leaderboards service to store, sort, and rank player scores powered by Unity Gaming Services.",
+      "type": "asset",
+      "unity": "2021.3",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.services.authentication": "3.3.3",
+        "com.unity.services.core": "1.13.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.services.leaderboards@2.2.1/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.services.leaderboards.tgz"
+      }
+    }
+  }
+}

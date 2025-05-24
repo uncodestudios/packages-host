@@ -1,0 +1,27 @@
+{
+  "_id": "com.unity.sysroot",
+  "name": "com.unity.sysroot",
+  "description": "This is the base sysroot package required by all sysroot and toolchain packages",
+  "provider": "upm",
+  "versions": {
+    "2.0.10": {
+      "name": "com.unity.sysroot",
+      "version": "2.0.10",
+      "displayName": "Sysroot Base",
+      "description": "This is the base sysroot package required by all sysroot and toolchain packages",
+      "type": "asset",
+      "unity": "2019.4",
+      "keywords": [
+        "unity",
+        "linux",
+        "sysroot"
+      ],
+      "dependencies": {},
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.sysroot@2.0.10/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.sysroot.tgz"
+      }
+    }
+  }
+}

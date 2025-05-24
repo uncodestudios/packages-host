@@ -1,0 +1,29 @@
+{
+  "_id": "com.unity.xr.visionos",
+  "name": "com.unity.xr.visionos",
+  "description": "Provides support for Apple visionOS XR features. This includes build post-processing code and the following subsystem implementations:\n  - XRSessionSubsystem\n  - XRDisplaySubsystem\n  - XRInputSubsystem\n  - XRMeshSubsystem\n  - XRPlaneSubsystem\n  - XRImageTrackingSubsystem\n  - XRAnchorSubsystem\n  - XRHandSubsystem\nUnity PolySpatial and visionOS support is only available to Unity Pro, Unity Enterprise, and Unity Industry users. Learn more about these plans at unity.com/pricing.",
+  "provider": "upm",
+  "versions": {
+    "2.2.4": {
+      "name": "com.unity.xr.visionos",
+      "version": "2.2.4",
+      "displayName": "Apple visionOS XR Plugin",
+      "description": "Provides support for Apple visionOS XR features. This includes build post-processing code and the following subsystem implementations:\n  - XRSessionSubsystem\n  - XRDisplaySubsystem\n  - XRInputSubsystem\n  - XRMeshSubsystem\n  - XRPlaneSubsystem\n  - XRImageTrackingSubsystem\n  - XRAnchorSubsystem\n  - XRHandSubsystem\nUnity PolySpatial and visionOS support is only available to Unity Pro, Unity Enterprise, and Unity Industry users. Learn more about these plans at unity.com/pricing.",
+      "type": "asset",
+      "unity": "6000.0",
+      "keywords": [
+        "xreditorsubsystem"
+      ],
+      "dependencies": {
+        "com.unity.xr.core-utils": "2.3.0",
+        "com.unity.xr.arfoundation": "6.0.3",
+        "com.unity.xr.management": "4.5.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.xr.visionos@2.2.4/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.xr.visionos.tgz"
+      }
+    }
+  }
+}

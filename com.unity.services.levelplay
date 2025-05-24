@@ -1,0 +1,25 @@
+{
+  "_id": "com.unity.services.levelplay",
+  "name": "com.unity.services.levelplay",
+  "description": "After you\u0027ve installed the Ads Mediation package, create a LevelPlay account and complete your app\u0027s ad format integrations if you haven\u0027t done so already. Here are the next steps: https://developers.is.com/ironsource-mobile/unity/levelplay-starter-kit/\n\nIMPORTANT UPGRADE NOTES: \n\nBefore updating from Ads Mediation v1.0.0 (or levelplay.unitypackage) to Ads Mediation v8.0.0\u002B, complete the following actions to migrate smoothly:\n\nPlease note: if you are using Developer Settings, you will need to back up your values and re-enter them once you have updated to the latest version of the SDK.\n\n1. In your Project window, locate the Assets/IronSource folder. Delete the IronSource folder and its contents.\n2. Return to the Ads Mediation package in Package Manager and click Update.\n3. Launch the LevelPlay Network Manager from the Ads Mediation top menu and reinstall network adapters.\n\nFor more information:\n\n\u25AA Migration guide: https://developers.is.com/ironsource-mobile/unity/unity-package-migration-8-0-0/\n\u25AA Troubleshooting steps: https://docs.unity.com/monetization-dashboard/en-us/manual/editor-levelplay-integration#Troubleshooting\n\nPACKAGE DESCRIPTION:\n\nDrive higher revenue with the leading ads mediation platform from Unity. LevelPlay gives you access to a unified auction of all the leading SDK networks and bidders to maximize competition and increase your potential earnings. Serve a diverse mix of ad formats, get real time monetization data, A/B test adjustments to your ad strategy, and more. \n\nSupported platforms:\n\n\u25AA Android\n\u25AA iOS",
+  "provider": "upm",
+  "versions": {
+    "8.8.1": {
+      "name": "com.unity.services.levelplay",
+      "version": "8.8.1",
+      "displayName": "Ads Mediation",
+      "description": "After you\u0027ve installed the Ads Mediation package, create a LevelPlay account and complete your app\u0027s ad format integrations if you haven\u0027t done so already. Here are the next steps: https://developers.is.com/ironsource-mobile/unity/levelplay-starter-kit/\n\nIMPORTANT UPGRADE NOTES: \n\nBefore updating from Ads Mediation v1.0.0 (or levelplay.unitypackage) to Ads Mediation v8.0.0\u002B, complete the following actions to migrate smoothly:\n\nPlease note: if you are using Developer Settings, you will need to back up your values and re-enter them once you have updated to the latest version of the SDK.\n\n1. In your Project window, locate the Assets/IronSource folder. Delete the IronSource folder and its contents.\n2. Return to the Ads Mediation package in Package Manager and click Update.\n3. Launch the LevelPlay Network Manager from the Ads Mediation top menu and reinstall network adapters.\n\nFor more information:\n\n\u25AA Migration guide: https://developers.is.com/ironsource-mobile/unity/unity-package-migration-8-0-0/\n\u25AA Troubleshooting steps: https://docs.unity.com/monetization-dashboard/en-us/manual/editor-levelplay-integration#Troubleshooting\n\nPACKAGE DESCRIPTION:\n\nDrive higher revenue with the leading ads mediation platform from Unity. LevelPlay gives you access to a unified auction of all the leading SDK networks and bidders to maximize competition and increase your potential earnings. Serve a diverse mix of ad formats, get real time monetization data, A/B test adjustments to your ad strategy, and more. \n\nSupported platforms:\n\n\u25AA Android\n\u25AA iOS",
+      "type": "asset",
+      "unity": "2021.3",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.services.core": "1.8.1"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.services.levelplay@8.8.1/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.services.levelplay.tgz"
+      }
+    }
+  }
+}

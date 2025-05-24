@@ -1,0 +1,32 @@
+{
+  "_id": "com.unity.xr.legacyinputhelpers",
+  "name": "com.unity.xr.legacyinputhelpers",
+  "description": "This package includes the tracked pose driver for the legacy input system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects to track input devices, the XR Bindings Seeding Tool adds a menu item under the \u0027Assets\u0027 menu which populates the Input Asset with Unity\u0027s crossplatform Input Bindings",
+  "provider": "upm",
+  "versions": {
+    "2.1.12": {
+      "name": "com.unity.xr.legacyinputhelpers",
+      "version": "2.1.12",
+      "displayName": "XR Legacy Input Helpers",
+      "description": "This package includes the tracked pose driver for the legacy input system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects to track input devices, the XR Bindings Seeding Tool adds a menu item under the \u0027Assets\u0027 menu which populates the Input Asset with Unity\u0027s crossplatform Input Bindings",
+      "type": "asset",
+      "unity": "2019.4",
+      "keywords": [
+        "TPD",
+        "Tracked Pose Driver",
+        "XR",
+        "Input",
+        "Helpers"
+      ],
+      "dependencies": {
+        "com.unity.modules.vr": "1.0.0",
+        "com.unity.modules.xr": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.xr.legacyinputhelpers@2.1.12/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.xr.legacyinputhelpers.tgz"
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "com.unity.xr.interaction.toolkit",
+  "name": "com.unity.xr.interaction.toolkit",
+  "description": "A high-level, component-based, interaction system for creating VR and AR experiences. It provides a framework that makes 3D and UI interactions available from Unity input events. The core of this system is a set of base Interactor and Interactable components, and an Interaction Manager that ties these two types of components together. It also contains components that you can use for locomotion and drawing visuals.",
+  "provider": "upm",
+  "versions": {
+    "3.0.8": {
+      "name": "com.unity.xr.interaction.toolkit",
+      "version": "3.0.8",
+      "displayName": "XR Interaction Toolkit",
+      "description": "A high-level, component-based, interaction system for creating VR and AR experiences. It provides a framework that makes 3D and UI interactions available from Unity input events. The core of this system is a set of base Interactor and Interactable components, and an Interaction Manager that ties these two types of components together. It also contains components that you can use for locomotion and drawing visuals.",
+      "type": "asset",
+      "unity": "2021.3",
+      "keywords": [
+        "XR",
+        "VR",
+        "toolkit",
+        "interaction"
+      ],
+      "dependencies": {
+        "com.unity.inputsystem": "1.8.1",
+        "com.unity.mathematics": "1.2.6",
+        "com.unity.ugui": "1.0.0",
+        "com.unity.xr.core-utils": "2.2.3",
+        "com.unity.modules.audio": "1.0.0",
+        "com.unity.modules.imgui": "1.0.0",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.xr": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0.8/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.xr.interaction.toolkit.tgz"
+      }
+    }
+  }
+}

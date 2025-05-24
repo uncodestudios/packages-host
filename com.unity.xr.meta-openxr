@@ -1,0 +1,41 @@
+{
+  "_id": "com.unity.xr.meta-openxr",
+  "name": "com.unity.xr.meta-openxr",
+  "description": "Enables you to build mixed reality apps for Meta Quest devices by implementing support for Meta\u0027s OpenXR extensions.",
+  "provider": "upm",
+  "versions": {
+    "2.1.1": {
+      "name": "com.unity.xr.meta-openxr",
+      "version": "2.1.1",
+      "displayName": "Unity OpenXR Meta",
+      "description": "Enables you to build mixed reality apps for Meta Quest devices by implementing support for Meta\u0027s OpenXR extensions.",
+      "type": "asset",
+      "unity": "6000.0",
+      "keywords": [
+        "xreditorsubsystem",
+        "openxr",
+        "meta",
+        "oculus",
+        "xr",
+        "vr",
+        "mr",
+        "virtual",
+        "reality",
+        "rift",
+        "quest",
+        "arfoundation"
+      ],
+      "dependencies": {
+        "com.unity.xr.openxr": "1.14.0",
+        "com.unity.xr.arfoundation": "6.1.0",
+        "com.unity.xr.management": "4.4.0",
+        "com.unity.xr.core-utils": "2.5.1"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.xr.meta-openxr@2.1.1/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.xr.meta-openxr.tgz"
+      }
+    }
+  }
+}

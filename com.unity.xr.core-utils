@@ -1,0 +1,33 @@
+{
+  "_id": "com.unity.xr.core-utils",
+  "name": "com.unity.xr.core-utils",
+  "description": "Common utility classes for XR projects\nRefer to API documentation for details. Some particularly useful utilities include:\n\u25AA Geometry Utilities\n  \u25AA Point of closest approach\n  \u25AA Closest edge of a polygon\n  \u25AA Check if point inside of polygon\n  \u25AA Compute 2D convex hull\n\u25AA Collection pool\n\u25AA Math Utilities\n  \u25AA Bounds extensions\n  \u25AA Quaternion extensions\n\u25AA Editor GUI\n  \u25AA Flags Property Drawer\n\u25AA Scriptable Settings (serialized project settings)\n\u25AA Conditional Compilation Utility\n\u25AA XR Origin Implementation",
+  "provider": "upm",
+  "versions": {
+    "2.5.2": {
+      "name": "com.unity.xr.core-utils",
+      "version": "2.5.2",
+      "displayName": "XR Core Utilities",
+      "description": "Common utility classes for XR projects\nRefer to API documentation for details. Some particularly useful utilities include:\n\u25AA Geometry Utilities\n  \u25AA Point of closest approach\n  \u25AA Closest edge of a polygon\n  \u25AA Check if point inside of polygon\n  \u25AA Compute 2D convex hull\n\u25AA Collection pool\n\u25AA Math Utilities\n  \u25AA Bounds extensions\n  \u25AA Quaternion extensions\n\u25AA Editor GUI\n  \u25AA Flags Property Drawer\n\u25AA Scriptable Settings (serialized project settings)\n\u25AA Conditional Compilation Utility\n\u25AA XR Origin Implementation",
+      "type": "asset",
+      "unity": "2021.3",
+      "keywords": [
+        "xr",
+        "ar",
+        "augmented",
+        "reality",
+        "utility",
+        "utilities",
+        "core"
+      ],
+      "dependencies": {
+        "com.unity.modules.xr": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.xr.core-utils@2.5.2/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.xr.core-utils.tgz"
+      }
+    }
+  }
+}

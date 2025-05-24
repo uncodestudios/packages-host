@@ -1,0 +1,33 @@
+{
+  "_id": "com.unity.toolchain.macos-arm64-linux-x86_64",
+  "name": "com.unity.toolchain.macos-arm64-linux-x86_64",
+  "description": "Cross-compilation toolchain to build player target Linux x86_64 on host Darwin Arm64",
+  "provider": "upm",
+  "versions": {
+    "2.0.4": {
+      "name": "com.unity.toolchain.macos-arm64-linux-x86_64",
+      "version": "2.0.4",
+      "displayName": "Toolchain MacOS Arm64 Linux x64",
+      "description": "Cross-compilation toolchain to build player target Linux x86_64 on host Darwin Arm64",
+      "type": "asset",
+      "unity": "2021.3",
+      "keywords": [
+        "toolchain",
+        "macos",
+        "arm64",
+        "darwin",
+        "linux",
+        "cross-compilation"
+      ],
+      "dependencies": {
+        "com.unity.sysroot": "2.0.10",
+        "com.unity.sysroot.linux-x86_64": "2.0.9"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.toolchain.macos-arm64-linux-x86_64@2.0.4/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.toolchain.macos-arm64-linux-x86_64.tgz"
+      }
+    }
+  }
+}

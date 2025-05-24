@@ -1,0 +1,27 @@
+{
+  "_id": "com.unity.services.push-notifications",
+  "name": "com.unity.services.push-notifications",
+  "description": "This package adds support for Push Notifications to your game. It allows sending rich push notifications with images, and provides analytics on the number of received push notifications.",
+  "provider": "upm",
+  "versions": {
+    "4.0.1": {
+      "name": "com.unity.services.push-notifications",
+      "version": "4.0.1",
+      "displayName": "Push Notifications",
+      "description": "This package adds support for Push Notifications to your game. It allows sending rich push notifications with images, and provides analytics on the number of received push notifications.",
+      "type": "asset",
+      "unity": "2021.3",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.services.analytics": "6.0.1",
+        "com.unity.services.core": "1.10.1",
+        "com.unity.mobile.notifications": "2.2.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.services.push-notifications@4.0.1/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.services.push-notifications.tgz"
+      }
+    }
+  }
+}

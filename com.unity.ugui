@@ -1,0 +1,36 @@
+{
+  "_id": "com.unity.ugui",
+  "name": "com.unity.ugui",
+  "description": "Unity UI is a set of tools for developing user interfaces for games and applications. It is a GameObject-based UI system that uses Components and the Game View to arrange, position, and style user interfaces. \u200B You cannot use Unity UI to create or change user interfaces in the Unity Editor.",
+  "provider": "upm",
+  "versions": {
+    "2.0.0": {
+      "name": "com.unity.ugui",
+      "version": "2.0.0",
+      "displayName": "Unity UI",
+      "description": "Unity UI is a set of tools for developing user interfaces for games and applications. It is a GameObject-based UI system that uses Components and the Game View to arrange, position, and style user interfaces. \u200B You cannot use Unity UI to create or change user interfaces in the Unity Editor.",
+      "type": "asset",
+      "unity": "2019.2",
+      "keywords": [
+        "UI",
+        "ugui",
+        "Unity UI",
+        "Canvas",
+        "TextMeshPro",
+        "TextMesh Pro",
+        "Text",
+        "TMP",
+        "SDF"
+      ],
+      "dependencies": {
+        "com.unity.modules.ui": "1.0.0",
+        "com.unity.modules.imgui": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.ugui@2.0.0/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.ugui.tgz"
+      }
+    }
+  }
+}

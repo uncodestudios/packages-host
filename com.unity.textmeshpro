@@ -1,0 +1,25 @@
+{
+  "_id": "com.unity.textmeshpro",
+  "name": "com.unity.textmeshpro",
+  "description": "This package is no longer supported. TextMeshPro functionalities are now included in the com.unity.ugui package. To continue using them, consider adding it to your project dependencies.",
+  "provider": "upm",
+  "versions": {
+    "5.0.0": {
+      "name": "com.unity.textmeshpro",
+      "version": "5.0.0",
+      "displayName": "TextMeshPro",
+      "description": "This package is no longer supported. TextMeshPro functionalities are now included in the com.unity.ugui package. To continue using them, consider adding it to your project dependencies.",
+      "type": "shim",
+      "unity": "2023.2",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.ugui": "2.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.textmeshpro@5.0.0/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.textmeshpro.tgz"
+      }
+    }
+  }
+}

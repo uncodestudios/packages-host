@@ -1,0 +1,27 @@
+{
+  "_id": "com.unity.services.ugc",
+  "name": "com.unity.services.ugc",
+  "description": "The Unity User Generated Content package provides content management, moderation, and discovery features.",
+  "provider": "upm",
+  "versions": {
+    "3.0.1": {
+      "name": "com.unity.services.ugc",
+      "version": "3.0.1",
+      "displayName": "User Generated Content",
+      "description": "The Unity User Generated Content package provides content management, moderation, and discovery features.",
+      "type": "asset",
+      "unity": "2020.3",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.services.core": "1.12.5",
+        "com.unity.nuget.newtonsoft-json": "3.2.1",
+        "com.unity.services.authentication": "3.3.1"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.services.ugc@3.0.1/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.services.ugc.tgz"
+      }
+    }
+  }
+}

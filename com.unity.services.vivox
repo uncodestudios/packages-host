@@ -1,0 +1,28 @@
+{
+  "_id": "com.unity.services.vivox",
+  "name": "com.unity.services.vivox",
+  "description": "Unity\u0027s voice and text chat service for multiplayer communication offers voice chat and direct message text service with a managed hosted solution. Plug into your game and configure your project settings to add communications to your project immediately. Connect an unlimited number of users in 2D and 3D channels. Monitor concurrency on your dashboard. Add a custom UI to allow players to control voice volume, mute, and add audio effects to voice channels and manage them. Place users in team chat and allow them to participate in multiple channels.",
+  "provider": "upm",
+  "versions": {
+    "16.6.0": {
+      "name": "com.unity.services.vivox",
+      "version": "16.6.0",
+      "displayName": "Vivox",
+      "description": "Unity\u0027s voice and text chat service for multiplayer communication offers voice chat and direct message text service with a managed hosted solution. Plug into your game and configure your project settings to add communications to your project immediately. Connect an unlimited number of users in 2D and 3D channels. Monitor concurrency on your dashboard. Add a custom UI to allow players to control voice volume, mute, and add audio effects to voice channels and manage them. Place users in team chat and allow them to participate in multiple channels.",
+      "type": "asset",
+      "unity": "2020.3",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.settings-manager": "1.0.3",
+        "com.unity.services.core": "1.12.5",
+        "com.unity.nuget.newtonsoft-json": "3.0.2",
+        "com.unity.modules.audio": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.services.vivox@16.6.0/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.services.vivox.tgz"
+      }
+    }
+  }
+}
