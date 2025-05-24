@@ -1,0 +1,26 @@
+{
+  "_id": "com.unity.burst",
+  "name": "com.unity.burst",
+  "description": "Burst is a compiler that translates from IL/.NET bytecode to highly optimized native code using LLVM.",
+  "provider": "upm",
+  "versions": {
+    "1.8.21": {
+      "name": "com.unity.burst",
+      "version": "1.8.21",
+      "displayName": "Burst",
+      "description": "Burst is a compiler that translates from IL/.NET bytecode to highly optimized native code using LLVM.",
+      "type": "asset",
+      "unity": "2020.3",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.mathematics": "1.2.1",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.burst@1.8.21/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.burst.tgz"
+      }
+    }
+  }
+}

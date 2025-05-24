@@ -1,0 +1,44 @@
+{
+  "_id": "com.unity.adaptiveperformance",
+  "name": "com.unity.adaptiveperformance",
+  "description": "The Adaptive Performance package provides an API to get feedback about the thermal and power state of mobile devices, enabling applications to make performance-relevant adaptions at runtime.\n\nFor instruction on how to use samples, please read the documentation.\n\nBy installing this package, you agree to the terms and conditions of the Unity End User License Agreement found under \u0022View licenses\u0022 above.",
+  "provider": "upm",
+  "versions": {
+    "5.1.4": {
+      "name": "com.unity.adaptiveperformance",
+      "version": "5.1.4",
+      "displayName": "Adaptive Performance",
+      "description": "The Adaptive Performance package provides an API to get feedback about the thermal and power state of mobile devices, enabling applications to make performance-relevant adaptions at runtime.\n\nFor instruction on how to use samples, please read the documentation.\n\nBy installing this package, you agree to the terms and conditions of the Unity End User License Agreement found under \u0022View licenses\u0022 above.",
+      "type": "asset",
+      "unity": "2022.3",
+      "keywords": [
+        "mobile",
+        "adaptive",
+        "performance",
+        "utility",
+        "utilities",
+        "core",
+        "samsung",
+        "ap",
+        "provider",
+        "subsystem",
+        "indexer",
+        "scaler",
+        "vrr",
+        "boost",
+        "profiles",
+        "cluster",
+        "clusterinfo"
+      ],
+      "dependencies": {
+        "com.unity.profiling.core": "1.0.2",
+        "com.unity.modules.subsystems": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.adaptiveperformance@5.1.4/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.adaptiveperformance.tgz"
+      }
+    }
+  }
+}

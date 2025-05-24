@@ -1,0 +1,34 @@
+{
+  "_id": "com.unity.live-capture",
+  "name": "com.unity.live-capture",
+  "description": "Capture data from physical devices to animate characters and cameras in real time within the Editor. Record the animations in the form of takes and iterate on the recordings. Genlock and synchronize devices for frame and timecode accuracy.",
+  "provider": "upm",
+  "versions": {
+    "4.0.1": {
+      "name": "com.unity.live-capture",
+      "version": "4.0.1",
+      "displayName": "Live Capture",
+      "description": "Capture data from physical devices to animate characters and cameras in real time within the Editor. Record the animations in the form of takes and iterate on the recordings. Genlock and synchronize devices for frame and timecode accuracy.",
+      "type": "asset",
+      "unity": "2022.2",
+      "keywords": [
+        "virtual production",
+        "virtual camera",
+        "live capture",
+        "vcam"
+      ],
+      "dependencies": {
+        "com.unity.modules.imageconversion": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.timeline": "1.7.0",
+        "com.unity.ugui": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.live-capture@4.0.1/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.live-capture.tgz"
+      }
+    }
+  }
+}

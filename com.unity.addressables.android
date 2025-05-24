@@ -1,0 +1,26 @@
+{
+  "_id": "com.unity.addressables.android",
+  "name": "com.unity.addressables.android",
+  "description": "The Addressables for Android package is designed to work in conjunction with the Addressables package to support Play Asset Delivery and provides tools to pack Addressables groups into Android asset packs. This way you can take full advantage of asset pack based dynamic delivery, including Texture Compression Targeting support when it\u0027s enabled for your project.",
+  "provider": "upm",
+  "versions": {
+    "1.0.6": {
+      "name": "com.unity.addressables.android",
+      "version": "1.0.6",
+      "displayName": "Addressables for Android",
+      "description": "The Addressables for Android package is designed to work in conjunction with the Addressables package to support Play Asset Delivery and provides tools to pack Addressables groups into Android asset packs. This way you can take full advantage of asset pack based dynamic delivery, including Texture Compression Targeting support when it\u0027s enabled for your project.",
+      "type": "asset",
+      "unity": "2023.2",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.modules.androidjni": "1.0.0",
+        "com.unity.addressables": "2.3.16"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.addressables.android@1.0.6/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.addressables.android.tgz"
+      }
+    }
+  }
+}

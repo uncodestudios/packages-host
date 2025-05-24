@@ -1,0 +1,25 @@
+{
+  "_id": "com.unity.bindings.openimageio",
+  "name": "com.unity.bindings.openimageio",
+  "description": "This package contains C# bindings for the OpenImageIO library. OpenImageIO is a image manipulation library that provides an unified way to work with multiple image formats.",
+  "provider": "upm",
+  "versions": {
+    "1.0.0": {
+      "name": "com.unity.bindings.openimageio",
+      "version": "1.0.0",
+      "displayName": "OpenImageIO Bindings",
+      "description": "This package contains C# bindings for the OpenImageIO library. OpenImageIO is a image manipulation library that provides an unified way to work with multiple image formats.",
+      "type": "library",
+      "unity": "2023.1",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.collections": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.bindings.openimageio@1.0.0/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.bindings.openimageio.tgz"
+      }
+    }
+  }
+}

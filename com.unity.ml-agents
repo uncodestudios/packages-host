@@ -1,0 +1,28 @@
+{
+  "_id": "com.unity.ml-agents",
+  "name": "com.unity.ml-agents",
+  "description": "Use state-of-the-art machine learning to create intelligent character behaviors in any Unity environment (games, robotics, film, etc.).",
+  "provider": "upm",
+  "versions": {
+    "3.0.0": {
+      "name": "com.unity.ml-agents",
+      "version": "3.0.0",
+      "displayName": "ML Agents",
+      "description": "Use state-of-the-art machine learning to create intelligent character behaviors in any Unity environment (games, robotics, film, etc.).",
+      "type": "asset",
+      "unity": "2023.2",
+      "keywords": [],
+      "dependencies": {
+        "com.unity.sentis": "2.1.0",
+        "com.unity.modules.imageconversion": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.physics": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.ml-agents@3.0.0/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.ml-agents.tgz"
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "com.autodesk.fbx",
+  "name": "com.autodesk.fbx",
+  "description": "This package provides Unity C# bindings to the Autodesk\u00AE FBX\u00AE SDK.",
+  "provider": "upm",
+  "versions": {
+    "5.1.1": {
+      "name": "com.autodesk.fbx",
+      "version": "5.1.1",
+      "displayName": "Autodesk FBX SDK for Unity",
+      "description": "This package provides Unity C# bindings to the Autodesk\u00AE FBX\u00AE SDK.",
+      "type": "asset",
+      "unity": "2020.3",
+      "keywords": [
+        "fbx",
+        "animation",
+        "modeling",
+        "maya",
+        "max"
+      ],
+      "dependencies": {},
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.autodesk.fbx@5.1.1/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.autodesk.fbx.tgz"
+      }
+    }
+  }
+}

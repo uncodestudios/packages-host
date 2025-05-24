@@ -1,0 +1,45 @@
+{
+  "_id": "com.unity.dt.app-ui",
+  "name": "com.unity.dt.app-ui",
+  "description": "App UI is a versatile and customizable UI library for Unity that provides essential building blocks for creating beautiful and responsive user interfaces. With support for MVVM architecture, state management, and localization, App UI simplifies app development while maintaining flexibility and extensibility. The library includes a wide range of UI components, design tokens, and symbols, all of which can be easily customized to fit your app\u0027s unique style and branding.",
+  "provider": "upm",
+  "versions": {
+    "2.0.0-pre.16": {
+      "name": "com.unity.dt.app-ui",
+      "version": "2.0.0-pre.16",
+      "displayName": "App UI",
+      "description": "App UI is a versatile and customizable UI library for Unity that provides essential building blocks for creating beautiful and responsive user interfaces. With support for MVVM architecture, state management, and localization, App UI simplifies app development while maintaining flexibility and extensibility. The library includes a wide range of UI components, design tokens, and symbols, all of which can be easily customized to fit your app\u0027s unique style and branding.",
+      "type": "asset",
+      "unity": "2021.3",
+      "keywords": [
+        "app",
+        "ui",
+        "components",
+        "runtime",
+        "framework",
+        "navigation",
+        "dependency-injection",
+        "mvvm",
+        "undostack",
+        "redux",
+        "state-management",
+        "dark-theme",
+        "data-binding",
+        "cloud",
+        "unity",
+        "app-ui"
+      ],
+      "dependencies": {
+        "com.unity.modules.androidjni": "1.0.0",
+        "com.unity.modules.uielements": "1.0.0",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.screencapture": "1.0.0"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.dt.app-ui@2.0.0-pre.16/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.dt.app-ui.tgz"
+      }
+    }
+  }
+}

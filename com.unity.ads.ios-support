@@ -1,0 +1,23 @@
+{
+  "_id": "com.unity.ads.ios-support",
+  "name": "com.unity.ads.ios-support",
+  "description": "Provides support for App Tracking Transparency and SkAdNetwork API newly introduced in Apple iOS 14.\n\nIncludes a sample implementation of a customizable context screen to show before requesting tracking permission.",
+  "provider": "upm",
+  "versions": {
+    "1.0.0": {
+      "name": "com.unity.ads.ios-support",
+      "version": "1.0.0",
+      "displayName": "iOS 14 Advertising Support",
+      "description": "Provides support for App Tracking Transparency and SkAdNetwork API newly introduced in Apple iOS 14.\n\nIncludes a sample implementation of a customizable context screen to show before requesting tracking permission.",
+      "type": "asset",
+      "unity": "2018.4",
+      "keywords": [],
+      "dependencies": {},
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.ads.ios-support@1.0.0/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.ads.ios-support.tgz"
+      }
+    }
+  }
+}

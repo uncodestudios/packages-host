@@ -1,0 +1,41 @@
+{
+  "_id": "com.unity.behavior",
+  "name": "com.unity.behavior",
+  "description": "Unity Behavior is a graph-based tool to create and run behavior trees with a modular architecture.\n\n\u25AA Human-readable graphs flow top-to-bottom with plain-language nodes\n\u25AA Comprehensive library of pre-built nodes for movement, detection, and decision-making\n\u25AA Seamless C# integration with a familiar lifecycle model\n\u25AA Hierarchical design supporting reusable subgraphs\n\u25AA Real-time debugging visualization during Play mode\n\u25AA Event-driven architecture for dynamic game reactions\n\nIdeal for NPC behaviors, quest logic, environmental interactions, and game state management.\n\nA demo showcasing this package can be found in the Asset Store \u003Ca href=https://assetstore.unity.com/packages/templates/tutorials/behavior-demo-for-unity-298313\u003Ehttps://assetstore.unity.com/packages/templates/tutorials/behavior-demo-for-unity-298313\u003C/a\u003E.",
+  "provider": "upm",
+  "versions": {
+    "1.0.10": {
+      "name": "com.unity.behavior",
+      "version": "1.0.10",
+      "displayName": "Behavior",
+      "description": "Unity Behavior is a graph-based tool to create and run behavior trees with a modular architecture.\n\n\u25AA Human-readable graphs flow top-to-bottom with plain-language nodes\n\u25AA Comprehensive library of pre-built nodes for movement, detection, and decision-making\n\u25AA Seamless C# integration with a familiar lifecycle model\n\u25AA Hierarchical design supporting reusable subgraphs\n\u25AA Real-time debugging visualization during Play mode\n\u25AA Event-driven architecture for dynamic game reactions\n\nIdeal for NPC behaviors, quest logic, environmental interactions, and game state management.\n\nA demo showcasing this package can be found in the Asset Store \u003Ca href=https://assetstore.unity.com/packages/templates/tutorials/behavior-demo-for-unity-298313\u003Ehttps://assetstore.unity.com/packages/templates/tutorials/behavior-demo-for-unity-298313\u003C/a\u003E.",
+      "type": "asset",
+      "unity": "6000.0",
+      "keywords": [
+        "behavior",
+        "behavior tree",
+        "behavior graph",
+        "graph",
+        "ai",
+        "gameplay",
+        "NPCs"
+      ],
+      "dependencies": {
+        "com.unity.dt.app-ui": "2.0.0-pre.16",
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.animation": "1.0.0",
+        "com.unity.modules.ai": "1.0.0",
+        "com.unity.modules.audio": "1.0.0",
+        "com.unity.modules.particlesystem": "1.0.0",
+        "com.unity.nuget.newtonsoft-json": "3.2.1",
+        "com.unity.burst": "1.7.2",
+        "com.unity.collections": "2.1.4"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.behavior@1.0.10/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.behavior.tgz"
+      }
+    }
+  }
+}

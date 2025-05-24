@@ -1,0 +1,38 @@
+{
+  "_id": "com.unity.addressables",
+  "name": "com.unity.addressables",
+  "description": "The Addressable Asset System allows the developer to ask for an asset via its address. Once an asset (e.g. a prefab) is marked \u0022addressable\u0022, it generates an address which can be called from anywhere. Wherever the asset resides (local or remote), the system will locate it and its dependencies, then return it.\n\nUse \u0027Window-\u003EAsset Management-\u003EAddressables\u0027 to begin working with the system.\n\nAddressables use asynchronous loading to support loading from any location with any collection of dependencies. Whether you have been using direct references, traditional asset bundles, or Resource folders, addressables provide a simpler way to make your game more dynamic. Addressables simultaneously opens up the world of asset bundles while managing all the complexity.\n\nFor usage samples, see github.com/Unity-Technologies/Addressables-Sample",
+  "provider": "upm",
+  "versions": {
+    "2.4.6": {
+      "name": "com.unity.addressables",
+      "version": "2.4.6",
+      "displayName": "Addressables",
+      "description": "The Addressable Asset System allows the developer to ask for an asset via its address. Once an asset (e.g. a prefab) is marked \u0022addressable\u0022, it generates an address which can be called from anywhere. Wherever the asset resides (local or remote), the system will locate it and its dependencies, then return it.\n\nUse \u0027Window-\u003EAsset Management-\u003EAddressables\u0027 to begin working with the system.\n\nAddressables use asynchronous loading to support loading from any location with any collection of dependencies. Whether you have been using direct references, traditional asset bundles, or Resource folders, addressables provide a simpler way to make your game more dynamic. Addressables simultaneously opens up the world of asset bundles while managing all the complexity.\n\nFor usage samples, see github.com/Unity-Technologies/Addressables-Sample",
+      "type": "asset",
+      "unity": "2023.1",
+      "keywords": [
+        "asset",
+        "resources",
+        "bundle",
+        "bundles",
+        "assetbundles"
+      ],
+      "dependencies": {
+        "com.unity.scriptablebuildpipeline": "2.3.8",
+        "com.unity.modules.assetbundle": "1.0.0",
+        "com.unity.modules.imageconversion": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.unitywebrequestassetbundle": "1.0.0",
+        "com.unity.profiling.core": "1.0.2",
+        "com.unity.test-framework": "1.4.5"
+      },
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.addressables@2.4.6/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.addressables.tgz"
+      }
+    }
+  }
+}

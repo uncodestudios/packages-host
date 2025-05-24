@@ -1,0 +1,27 @@
+{
+  "_id": "com.unity.editorcoroutines",
+  "name": "com.unity.editorcoroutines",
+  "description": "The editor coroutines package allows developers to start constructs similar to Unity\u0027s monobehaviour based coroutines within the editor using abitrary objects. ",
+  "provider": "upm",
+  "versions": {
+    "1.0.0": {
+      "name": "com.unity.editorcoroutines",
+      "version": "1.0.0",
+      "displayName": "Editor Coroutines",
+      "description": "The editor coroutines package allows developers to start constructs similar to Unity\u0027s monobehaviour based coroutines within the editor using abitrary objects. ",
+      "type": "asset",
+      "unity": "2018.1",
+      "keywords": [
+        "coroutine",
+        "coroutines",
+        "editor"
+      ],
+      "dependencies": {},
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.editorcoroutines@1.0.0/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.editorcoroutines.tgz"
+      }
+    }
+  }
+}

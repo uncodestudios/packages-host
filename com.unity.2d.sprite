@@ -1,0 +1,27 @@
+{
+  "_id": "com.unity.2d.sprite",
+  "name": "com.unity.2d.sprite",
+  "description": "Use Unity Sprite Editor Window to create and edit Sprite asset properties like pivot, borders and Physics shape",
+  "provider": "upm",
+  "versions": {
+    "1.0.0": {
+      "name": "com.unity.2d.sprite",
+      "version": "1.0.0",
+      "displayName": "2D Sprite",
+      "description": "Use Unity Sprite Editor Window to create and edit Sprite asset properties like pivot, borders and Physics shape",
+      "type": "asset",
+      "unity": "2019.2",
+      "keywords": [
+        "2d",
+        "sprite",
+        "sprite editor window"
+      ],
+      "dependencies": {},
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.2d.sprite@1.0.0/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.2d.sprite.tgz"
+      }
+    }
+  }
+}

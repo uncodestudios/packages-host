@@ -1,0 +1,23 @@
+{
+  "_id": "com.unity.ext.flatsharp",
+  "name": "com.unity.ext.flatsharp",
+  "description": "Flatbuffers and FlatSharp support package. Includes flatc compilers for all editor platforms and FlatSharp.",
+  "provider": "upm",
+  "versions": {
+    "1.1.1": {
+      "name": "com.unity.ext.flatsharp",
+      "version": "1.1.1",
+      "displayName": "Flatbuffers support",
+      "description": "Flatbuffers and FlatSharp support package. Includes flatc compilers for all editor platforms and FlatSharp.",
+      "type": "asset",
+      "unity": "2022.3",
+      "keywords": [],
+      "dependencies": {},
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.ext.flatsharp@1.1.1/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.unity.ext.flatsharp.tgz"
+      }
+    }
+  }
+}
