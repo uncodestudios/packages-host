@@ -10,7 +10,7 @@
       "displayName": "AI Navigation",
       "description": "The AI Navigation package contains high-level components that allow you to use navmeshes to incorporate navigation and pathfinding in your game. With this package installed you can build and use navmeshes at runtime and at edit time, create dynamic obstacles, and use links to allow specific actions (like jumping) as your characters navigate between navmeshes.",
       "type": "asset",
-      "unity": "6000.0",
+      "unity": "2025.0",
       "keywords": [
         "carving",
         "mesh",
