@@ -1,0 +1,30 @@
+{
+  "_id": "com.meta.xr.sdk.core",
+  "name": "com.meta.xr.sdk.core",
+  "description": "Meta XR Core SDK package provides the latest features to create immersive experiences for Meta XR devices.",
+  "provider": "upm",
+  "versions": {
+    "77.0.0": {
+      "name": "com.meta.xr.sdk.core",
+      "version": "77.0.0",
+      "displayName": "Meta XR Core SDK",
+      "description": "Meta XR Core SDK package provides the latest features to create immersive experiences for Meta XR devices.",
+      "type": "asset",
+      "unity": "2025.0",
+      "keywords": [
+        "SDK",
+        "Oculus",
+        "Utilities",
+        "Quest",
+        "Meta",
+        "XR"
+      ],
+      "dependencies": {},
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.meta.xr.sdk.core@77.0.0/manual/index.html",
+      "dist": {
+        "shasum": "0000000000000000000000000000000000000000",
+        "tarball": "https://uncodestudios.xyz/unity/pkgs/com.meta.xr.sdk.core.tgz"
+      }
+    }
+  }
+}
