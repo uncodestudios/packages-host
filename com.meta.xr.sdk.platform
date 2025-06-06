@@ -4,25 +4,25 @@
   "description": "Use the Platform SDK to create social VR applications. Add Matchmaking, DLC, In-App Purchases, Cloud Storage, and more to your experience using the individual components of the SDK.",
   "provider": "upm",
   "versions": {
-    "76.0.0": {
+    "77.0.0": {
       "name": "com.meta.xr.sdk.platform",
-      "version": "76.0.0",
+      "version": "77.0.0",
       "displayName": "Meta XR Platform SDK",
       "description": "Use the Platform SDK to create social VR applications. Add Matchmaking, DLC, In-App Purchases, Cloud Storage, and more to your experience using the individual components of the SDK.",
       "type": "asset",
       "unity": "2025.0",
       "keywords": [
-        "Meta",
-        "Quest",
-        "SDK",
+        "Oculus",
         "XR",
-        "Platform",
-        "Oculus"
+        "Meta",
+        "SDK",
+        "Quest",
+        "Platform"
       ],
       "dependencies": {
         "com.unity.ugui": "1.0.0"
       },
-      "documentationUrl": "https://docs.unity3d.com/Packages/com.meta.xr.sdk.platform@76.0.0/manual/index.html",
+      "documentationUrl": "https://docs.unity3d.com/Packages/com.meta.xr.sdk.platform@77.0.0/manual/index.html",
       "dist": {
         "shasum": "0000000000000000000000000000000000000000",
         "tarball": "https://uncodestudios.xyz/unity/pkgs/com.meta.xr.sdk.platform.tgz"
